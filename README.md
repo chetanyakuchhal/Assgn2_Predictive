@@ -18,7 +18,7 @@ z = x + a_r \sin(b_r x)
 \]
 
 ### Transformation Parameters
-- University Roll Number \( r = 102303694 \)
+- University Roll Number \( r = 102303778 \)
 - \( a_r = 0.5 \times (r \bmod 7) = 1.5 \)
 - \( b_r = 0.3 \times ((r \bmod 5) + 1) = 1.5 \)
 
